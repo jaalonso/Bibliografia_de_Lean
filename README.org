@@ -109,7 +109,6 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[https://xenaproject.wordpress.com/2020/02/09/lean-is-better-for-proper-maths-than-all-the-other-theorem-provers/][Lean is better for proper maths than all the other theorem provers]]. ~ Kevin Buzzard.
 + [[http://leanprover.github.io/presentations/20150123_lean-mode/lean-mode.pdf][lean-mode (emacs mode for Lean Theorem Prover)]]. ~ Soonho Kong, Leonardo de Moura.
 + [[https://wiki.alcidesfonseca.com/blog/lean-tutorial-mere-mortals/][Lean tutorial for mere mortals]]. ~ Alcides Fonseca.
-+
 + [[https://youtu.be/gAuvVPw6_CQ][Lean: The Calculator on Steroids]]. ~ James Arthur.
 + [[http://bit.ly/1CEUHpV][Lean: a new theorem prover that aims to bridge the gap between interactive and automated theorem proving]].
 + [[https://xenaproject.wordpress.com/2018/12/30/learning-lean-by-example][Learning Lean by example]]. ~ Kevin Buzzard.
