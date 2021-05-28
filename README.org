@@ -227,8 +227,6 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[https://github.com/leanprover-community/mathlib/blob/1509c2950946374803b265830452880816e0f0c1/archive/100-theorems-list/83_friendship_graphs.lean][The friendship theorem in Lean]]. ~ Aaron Anderson. #ITP #LeanProver #Math
 + [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
 + [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
-+ [[https://leanprover-community.github.io/lt2021/slides/thomas-LT2021-Galois-Theory.pdf][Formalizing Galois Theory in Lean [Slides]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
-+ [[https://youtu.be/-6z6qTD_vv8][Formalizing Galois Theory in Lean [Vídeo]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
 + [[https://youtu.be/S4xl0CtJIb4][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
 + [[https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/][Formalising mathematics: an introduction]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://xenaproject.wordpress.com/2021/01/24/formalising-mathematics-workshop-1][Formalising mathematics: workshop 1]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
