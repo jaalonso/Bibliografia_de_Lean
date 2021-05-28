@@ -210,17 +210,11 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/NFA.lean][Nondeterministic Finite Automata (NFA) in Lean]]. ~ Fox Thomson. #ITP  #LeanProver #Mathlib
 + [[https://arxiv.org/abs/2101.00127][Formalizing Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle A. Miller. #ITP #LeanProver #Math
 + [[https://youtu.be/UeGvhfW1v9M][An overview of Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
-+ [[https://leanprover-community.github.io/lt2021/slides/floris-measure.pdf][Measure theory in Lean [slides]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
-+ [[https://youtu.be/yH3-zE0bYCU][Measure theory in Lean [video]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
 + [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann Hypothesis in Lean]]. ~ Brandon H. Gomes (@brandonhgomes), Alex Kontorovich. #ITP #LeanProver #Math
-+ [[https://leanprover-community.github.io/lt2021/slides/Macbeth-slides.pdf][An example of a manifold [Slides]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
-+ [[https://youtu.be/deppJ2q_5a0][An example of a manifold [Video]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
 + [[https://youtu.be/cLuEaAsUvL4][Word problem for one-relator groups]]. ~ Chris Hughes. #ITP #LeanProver #Math
 + [[https://github.com/gihanmarasingha/mth1001_tutorial][A Lean introduction to pure mathematics]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
 + [[https://github.com/gihanmarasingha/mth1001_sphinx][MTH1001 (Mathematical structures) in Lean]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
 + [[https://github.com/gihanmarasingha/ems_reals][EMS reals (A project for investigating the real number system via the interactive theorem prover Lean)]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
-+ [[https://youtu.be/eSXiClL4COw][LeanStep: a dataset and environment for (interactive) neural theorem proving [Video]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
-+ [[https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing][LeanStep: a dataset and environment for (interactive) neural theorem proving [Slides]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
 + [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
 + [[https://leanprover-community.github.io/100.html][Formalizing 100 theorems in Lean]]. #ITP #Math #LeanProver
 + [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
@@ -228,18 +222,11 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/Set_theory_Type_Theory_and_the_future_of_Proof_verification_software.pdf][Set theory, type theory and the future of proof verification software]]. ~ James Palmer. #ITP #LeanProver #Math via @XenaProject
 + [[https://github.com/mdickinson/snippets/blob/master/proofs/isqrt/src/isqrt.lean][A formal proof of correctness of a recursive integer square root algorithm]]. ~ Mark Dickinson. #ITP #LeanProver #Math
 + [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
-+ [[http://alexjbest.github.io/talks/lean-generalisation][Automatically generalising theorems using typeclasses in Lean [Slides]]]. ~ Alex J. Best. #ITP #LeanProver #Math
-+ [[https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000][Automatically generalising theorems using typeclasses in Lean [Video]]]. ~ Alex J. Best. #ITP #LeanProver #Math
 + [[https://xenaproject.wordpress.com/2021/01/12/lean-together-2021/][Lean Together 2021]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
 + [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan. #ITP #LeanProver
 + [[https://github.com/leanprover-community/mathlib/blob/1509c2950946374803b265830452880816e0f0c1/archive/100-theorems-list/83_friendship_graphs.lean][The friendship theorem in Lean]]. ~ Aaron Anderson. #ITP #LeanProver #Math
 + [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
-+ [[https://youtu.be/K-kLck8BvDM][Axiomatic Geometry in Lean [Video]]]. ~ Vaibhav Karve. #ITP #LeanProver #Math
-+ [[https://github.com/vaibhavkarve/leanteach2020][Axiomatic Geometry in Lean [Code]]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
 + [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
-+ [[https://leanprover-community.github.io/lt2021/slides/paula-LeanTogether2021.pdf][Results in modal and dynamic epistemic logic (A formalization in Lean) [Slides]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
-+ [[https://youtu.be/kXCB5wzQTKc][Results in modal and dynamic epistemic logic (A formalization in Lean) [Video]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
-+ [[https://github.com/paulaneeley/modal][Results in modal and dynamic epistemic logic (A formalization in Lean) [Repo]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
 + [[https://leanprover-community.github.io/lt2021/slides/thomas-LT2021-Galois-Theory.pdf][Formalizing Galois Theory in Lean [Slides]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
 + [[https://youtu.be/-6z6qTD_vv8][Formalizing Galois Theory in Lean [Vídeo]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
 + [[https://youtu.be/S4xl0CtJIb4][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
