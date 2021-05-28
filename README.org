@@ -3,6 +3,8 @@
 Recopilación de trabajos sobre Lean compartidos en
 [[https://github.com/jaalonso/Lecturas_GLC][Lecturas del Grupo de Lógica Computacional]].
 
+* Por orden alfabético
+
 + [[https://youtu.be/POHVMMG7pqE][10 minute Lean tutorial: proving logical propositions]]. ~ Kevin Buzzard.
 + [[https://github.com/leanprover-community/mathlib/blob/100-thms/docs/100-theorems.md][100 theorems for Lean]]. ~ Floris van Doorn.
 + [[https://sites.google.com/view/berkeleyleanseminar/home][2020 Berkeley Lean Seminar]].
@@ -188,3 +190,111 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[https://xenaproject.wordpress.com/2018/10/07/what-is-the-xena-project/][What is the Xena Project?]] ~ Kevin Buzzard
 + [[https://xenaproject.wordpress.com/what-maths-is-in-lean/][What maths is in Lean?]] ~ Kevin Buzzard.
 + [[https://xenaproject.wordpress.com/2020/02/09/where-is-the-fashionable-mathematics/][Where is the fashionable mathematics?]] ~ Kevin Buzzard.
+
+* Por orden cronológico de publicación en Twitter
+
++ [[https://kqueue.org/blog/2020/10/15/arithcc/][Correctness of a compiler for arithmetic expressions in Lean]]. ~  Xi Wang. #ITP #LeanProver
++ [[https://www.ams.org/journals/notices/202011/rnoti-p1791.pdf][Proving theorems with computers]]. ~ Kevin Buzzard. #ITP #LeanProver #Math
++ [[https://github.com/jdan/compiler.lean][A formally verified compiler for a simple language with numbers and sums]]. ~ Jordan Scales. #ITP #LeanProver
++ [[https://github.com/rwbarton/advent-of-lean-4][Advent of Code 2020 solutions in Lean 4]]. ~ Reid Barton. #LeanProver #ITP #FuncionalProgramming
++ [[https://xenaproject.wordpress.com/2020/12/05/liquid-tensor-experiment/][Liquid tensor experiment]]. ~ Peter Scholze. #ITP #LeanProver #Math
++ [[https://blog.jpolak.org/?p=2281][On the Lean proof assistant, Part 1]]. ~ Jason Polak. #ITP #LeanProver
++ [[https://arxiv.org/abs/2012.08990][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
++ [[https://arxiv.org/abs/2012.09388][Formalization of PAL⋅S5 in proof assistant]]. ~ Jiatu Li. #ITP #LeanProver #Logic
++ [[https://github.com/ljt12138/Proof-of-Surreal][Formal proof of the main theorem for surreal]]. ~ Jiatu Li. #ITP #LeanProver
++ [[https://github.com/mmasdeu/euler][Formalization of Euler summation formula (in Lean)]]. ~ Marc Masdeu (@marcmasdeu). #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/lean/blob/master/doc/faq.md][Lean prover: Frequently Asked Questions]]. #ITP #LeanProver
++ [[https://leanprover.github.io/lean4/doc/whatIsLean.html][Lean 4 manual]]. #Lean4 #FunctionalProgramming #ITP
++ [[https://github.com/leanprover-community/mathlib/blob/04f8fd744a1d8e9f5aec9fd8d4809d4345365916/src/group_theory/dihedral.lean][Dihedral groups in Lean]]. ~ Shing Tak Lam. #ITP #LeanProver #Mathlib
++ [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/DFA.lean][Deterministic Finite Automata (DFA) in Lean]]. ~ Fox Thomson. #ITP #LeanProver #Mathlib
++ [[https://github.com/leanprover-community/mathlib/blob/384ba88bf56209e52a0bed1b7176805c09b05c9a/src/computability/NFA.lean][Nondeterministic Finite Automata (NFA) in Lean]]. ~ Fox Thomson. #ITP  #LeanProver #Mathlib
++ [[https://arxiv.org/abs/2101.00127][Formalizing Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle A. Miller. #ITP #LeanProver #Math
++ [[https://youtu.be/UeGvhfW1v9M][An overview of Lean 4]]. ~ Leonardo de Moura, Sebastian Ullrich. #ITP #LeanProver
++ [[https://leanprover-community.github.io/lt2021/slides/floris-measure.pdf][Measure theory in Lean [slides]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://youtu.be/yH3-zE0bYCU][Measure theory in Lean [video]]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://github.com/bhgomes/lean-riemann-hypothesis][Riemann Hypothesis in Lean]]. ~ Brandon H. Gomes (@brandonhgomes), Alex Kontorovich. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/lt2021/slides/Macbeth-slides.pdf][An example of a manifold [Slides]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://youtu.be/deppJ2q_5a0][An example of a manifold [Video]]]. ~ Heather Macbeth. #ITP #LeanProver #Math
++ [[https://youtu.be/cLuEaAsUvL4][Word problem for one-relator groups]]. ~ Chris Hughes. #ITP #LeanProver #Math
++ [[https://github.com/gihanmarasingha/mth1001_tutorial][A Lean introduction to pure mathematics]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://github.com/gihanmarasingha/mth1001_sphinx][MTH1001 (Mathematical structures) in Lean]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://github.com/gihanmarasingha/ems_reals][EMS reals (A project for investigating the real number system via the interactive theorem prover Lean)]]. ~ Gihan Marasingha (@gihanmarasingha). #ITP #LeanProver #Logic #Math
++ [[https://youtu.be/eSXiClL4COw][LeanStep: a dataset and environment for (interactive) neural theorem proving [Video]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
++ [[https://docs.google.com/presentation/d/1poOu2gP9mSGAdAFvOupHvf4tpgD33jACQLJAVcphA1g/edit?usp=sharing][LeanStep: a dataset and environment for (interactive) neural theorem proving [Slides]]]. ~ Jason Rute. #ITP #Leanprover #MachineLearning
++ [[https://arxiv.org/abs/2101.02602][Schemes in Lean]]. ~ Kevin Buzzard, Chris Hughes, Kenny Lau, Amelia Livingston, Ramon Fernández Mir, Scott Morrison. #ITP #LeanProver #Math
++ [[https://leanprover-community.github.io/100.html][Formalizing 100 theorems in Lean]]. #ITP #Math #LeanProver
++ [[https://github.com/mhk119/fibonacci_squares][144 is the largest square in the Fibonacci Sequence (A formalisation of Cohn's Proof)]]. ~ Harun Khan #ITP #LeanProver #Math via @XenaProject
++ [[https://github.com/Lix0120/eudoxus/][The Eudoxus real numbers in Lean]]. ~ Xiang Li. #ITP #LeanProver #Math via @XenaProject
++ [[http://wwwf.imperial.ac.uk/~buzzard/xena/pdfs/Set_theory_Type_Theory_and_the_future_of_Proof_verification_software.pdf][Set theory, type theory and the future of proof verification software]]. ~ James Palmer. #ITP #LeanProver #Math via @XenaProject
++ [[https://github.com/mdickinson/snippets/blob/master/proofs/isqrt/src/isqrt.lean][A formal proof of correctness of a recursive integer square root algorithm]]. ~ Mark Dickinson. #ITP #LeanProver #Math
++ [[https://youtu.be/k-YncL7Cd4Q][Formalizing the ring of Witt vectors]]. ~ Robert Y. Lewis. #ITP #LeanProver #Math
++ [[http://alexjbest.github.io/talks/lean-generalisation][Automatically generalising theorems using typeclasses in Lean [Slides]]]. ~ Alex J. Best. #ITP #LeanProver #Math
++ [[https://bostonu.zoom.us/rec/play/yPZ5hwU7T5C2wwAUYMKEwed7Y83lsvPEci6CP-AiIel8A9u05OHbOLcAy-mi__tqgg3vBDvhXc4wVY_p.B9N6zDkf2SMpf2Nh?startTime=1609940780000][Automatically generalising theorems using typeclasses in Lean [Video]]]. ~ Alex J. Best. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/01/12/lean-together-2021/][Lean Together 2021]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/1911.00385][A formal proof of PAC learnability for decision stumps]]. ~ Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/1509c2950946374803b265830452880816e0f0c1/archive/100-theorems-list/83_friendship_graphs.lean][The friendship theorem in Lean]]. ~ Aaron Anderson. #ITP #LeanProver #Math
++ [[https://vaibhavkarve.github.io/leanteach_2020.html][Axiomatic Geometry in Lean]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
++ [[https://youtu.be/K-kLck8BvDM][Axiomatic Geometry in Lean [Video]]]. ~ Vaibhav Karve. #ITP #LeanProver #Math
++ [[https://github.com/vaibhavkarve/leanteach2020][Axiomatic Geometry in Lean [Code]]]. ~ Vaibhav Karve, Lawrence Zhao, Edward Kong, Alex Dolcos, Nicholas Phillips. #ITP #LeanProver #Math
++ [[https://youtu.be/pMCZFrii4lA][Model theory in Lean]]. ~ Vaibhav Karve. #ITP #LeanProver #Logic
++ [[https://leanprover-community.github.io/lt2021/slides/paula-LeanTogether2021.pdf][Results in modal and dynamic epistemic logic (A formalization in Lean) [Slides]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://youtu.be/kXCB5wzQTKc][Results in modal and dynamic epistemic logic (A formalization in Lean) [Video]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://github.com/paulaneeley/modal][Results in modal and dynamic epistemic logic (A formalization in Lean) [Repo]]]. ~ Paula Neeley. #ITP #LeanProver #Logic
++ [[https://leanprover-community.github.io/lt2021/slides/thomas-LT2021-Galois-Theory.pdf][Formalizing Galois Theory in Lean [Slides]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://youtu.be/-6z6qTD_vv8][Formalizing Galois Theory in Lean [Vídeo]]]. ~ Thomas Browning, Patrick Lutz. #ITP #LeanProver #Math
++ [[https://youtu.be/S4xl0CtJIb4][A novice-friendly induction tactic for Lean]]. ~ Jannis Limperg. #ITP #LeanProver
++ [[https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/][Formalising mathematics: an introduction]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/01/24/formalising-mathematics-workshop-1][Formalising mathematics: workshop 1]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://lmcs.episciences.org/7124/pdf][2-Adjoint equivalences in Homotopy Type Theory]]. ~ Daniel Carranza, Jonathan Chang, Krzysztof Kapulkin, Ryan Sandford. #ITP #LeanProver #HoTT
++ [[https://github.com/leanprover-community/mathlib/blob/1eb1293706c569ef94776d63fd4900923cc66270/archive/imo/imo2011_q3.lean][IMO 2011 Q3 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/6585eff99deca6bb21ae0c84c5c7b609c0406189/archive/imo/imo2013_q5.lean][IMO 2013 Q5 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/01/28/formalising-mathematics-workshop-2][Formalising mathematics: Workshop 2 (Groups and subgroups)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/02/04/formalising-mathematics-workshop-3/][Formalising mathematics: Workshop 3 (Limits of sequences)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2018/08/04/what-is-a-filter-how-some-computer-scientists-think-about-limits/][What is a filter? How some computer scientists think about limits]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2018/08/05/what-is-a-uniform-space-how-some-computer-scientists-think-about-completions/][What is a uniform space? How some computer scientists think about completions]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2102.02600][A formalization of Dedekind domains and class groups of global fields]]. ~ Anne Baanen, Sander R. Dahmen, Ashvni Narayanan, Filippo A. E. Nuccio Mortarino Majno di Capriglio. #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2102.02901][A formal proof of the independence of the continuum hypothesis]]. ~ Jesse Michael Han, Floris van Doorn. #ITP #LeanProver #Logic #Math
++ [[https://github.com/leanprover-community/mathlib/blob/fdbd4bffdc00b53b0b337ff308378a448b069f7e/archive/imo/imo2013_q1.lean][IMO 2013 Q1 in Lean]]. ~ David Renshaw. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/02/10/formalising-mathematics-workshop-4/][Formalising mathematics: workshop 4 (topology)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/72141fdc94feec6f394b95c9310687f517bb4d02/src/combinatorics/hall.lean][Hall's Marriage Theorem in Lean]]. ~ Alena Gusakov, Bhavik Mehta, Kyle Miller. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/2f566202f1bbefee115b5b45b48a7127133309c7/src/data/real/liouville.lean][Liouville's theorem in Lean]]. ~ Jujian Zhang. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/983cb905e2468a820d833263bd537686b549267a/archive/imo/imo1987_q1.lean][Formalization in Lean of IMO (International Mathematical Olympiads) 1987, Q1]]. ~ Yury Kudryashov. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/02/18/formalising-mathematics-workshop-5-filters][Formalising mathematics: workshop 5 (filters)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2102.07636][Formalized Haar measure]]. ~ Floris van Doorn. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/02/25/formalising-mathematics-workshop-6-limits/][Formalising mathematics: workshop 6 (limits)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/03/04/formalising-mathematics-workshop-7-quotients/][Formalising mathematics: workshop 7 (quotients)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://youtu.be/EXpmbAfBNnw][Neural theorem proving in Lean using Proof Artifact Co-training and language models]]. ~ Jason Rute. #ITP #LeanProver #MachineLearning
++ [[https://cmsa.fas.harvard.edu/wp-content/uploads/2021/03/LeanStep-Talk-New-Technology-in-Mathematics-Seminar.pdf][Neural theorem proving in Lean using Proof Artifact Co-training and language models]]. [Slides] ~ Jason Rute. #ITP #LeanProver #MachineLearning
++ [[https://github.com/atarnoam/lean-automata][Proving theorems about regular languages and DFAs in Lean]]. ~ Noam Atar. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/5962c76fb636d17a041726adcc11299c8a23e2b6/src/algebra/ring/boolean_ring.lean][Boolean rings (in Lean prover)]]. ~ Bryan Gin-ge Chen. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/b25994d522d1368e19a6e568aa7e642d72a95294/src/number_theory/bernoulli_polynomials.lean][Bernoulli polynomials (in Lean prover)]]. ~ Ashvni Narayanan. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/03/15/formalising-mathematics-workshop-8-group-cohomology/][Formalising mathematics: workshop 8 (group cohomology)]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://courses.cs.washington.edu/courses/cse505/17au/][Course: Programming languages]]. ~ Zach Tatlock, Leonardo De Moura. #CompSci #ITP #LeanProver
++ [[https://www.tomhoule.com/leaning-into-calculus-chapter-1/][Leaning into Spivak's calculus]]. ~ Tom Houle (@_tomhoule). #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/04/03/induction-and-inductive-types/][Induction, and inductive types]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://arxiv.org/abs/2104.00506v1][Intuitionistic NF Set Theory]]. ~ Michael Beeson. #Logic #Math #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/82fd6e1e1b9b35249e25d1e19af1df0eb7cf2a15/src/logic/girard.lean][Girard's paradox]]. ~ Mario Carneiro. #ITP #LeanProver #Logic #Math
++ [[https://github.com/leanprover-community/mathlib/blob/89ea423d261b46c4e90e49362a6471a5ceb1d6d5/archive/imo/imo2005_q3.lean][Formalization in Lean of IMO 2005 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/1e1eaae6ad91319c1f3cc2f414a0f763b8f15641/archive/imo/imo2008_q2.lean][Formalization in Lean of IMO 2008 Q2]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/1e1eaae6ad91319c1f3cc2f414a0f763b8f15641/archive/imo/imo2011_q5.lean][Formalization in Lean of IMO 2011 Q5]]. ~ Alain Verberkmoes. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/a6024f10dde5322da06d1158221e1827d3ba4cfe/archive/imo/imo2008_q4.lean][Formalization in Lean of IMO 2008 Q4]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/c6b06369392473fe9ebc480fbcfed1695db3e554/archive/imo/imo2008_q3.lean][Formalization in Lean of IMO 2008 Q3]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/e269dbc17a978dfabe57975b84d0b0250b78a2db/src/tactic/itauto.lean][Intuitionistic tautology (`itauto`) decision procedure in Lean]]. ~ Mario Carneiro. #ITP #LeanProver #Logic
++ [[https://github.com/leanprover-community/mathlib/blob/8d3e8b5b2635fc20a27922893cdf852bd0bd5706/archive/imo/imo1977_q6.lean][Formalization in Lean of IMO 1977 Q6]]. ~ Tian Chen. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/3379f3ed992a6bce819a030178082efb6f6a92b4/archive/100-theorems-list/57_herons_formula.lean][Heron's Formula (in Lean)]]. ~ Matt Kempster. #ITP #LeanProver #Math
++ [[https://xenaproject.wordpress.com/2021/04/18/induction-on-equality/][Induction on equality]]. ~ Kevin Buzzard (@XenaProject). #ITP #LeanProver #Math
++ [[https://github.com/mirefek/sokoban.lean][Sokoban implementation in Lean for proving solvability / unsolvability]]. ~ Miroslav Olšák. #ITP #LeanProver
++ [[https://www.pointedset.ca/blog/2020/02/06/proptype.html][A practical difference between Props and Types in Lean]]. ~ Mathieu Guay-Paquet. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/afa6b72e20728cf46912ef9333d0f08ccebf7a6f/src/geometry/euclidean/sphere.lean][Product of segments of chords in Lean]]. ~ Manuel Candales. #ITP #LeanProver #Math
++ [[https://pp.ipd.kit.edu/uploads/publikationen/dieterichs21masterarbeit.pdf][Formal verification of pattern matching analyses]]. ~ Henning Dieterichs. #ITP #LeanProver
++ [[https://github.com/leanprover-community/mathlib/blob/2ecd65e6de2939f09df9d964782f8ec7ba4aeb5c/archive/imo/imo2001_q2.lean][Formalization in Lean of IMO 2001 Q2]]. ~ Tian Chen. #ITP #LeanProver #Math #IMO
++ [[https://www.math.umd.edu/~jda/seminarNotes/carneiro.pdf][Mathematics in the computer]]. ~ Mario Carneiro. #Math #ITP #LeanProver #Metamath #Metamath_Zero
++ [[https://youtu.be/mTLuON5eRZI][Lean Together 2021: Panel on teaching with proof assistants]]. #ITP #LeanProver
++ [[https://youtu.be/GtAo8wqWHHg][The IMO Grand Challenge]]. ~ Daniel Selsam. #ITP #LeanProver
++ [[https://github.com/IPDSnelting/tba-2021][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages"]]. ~ Jakob von Raumer, Sebastian Ullrich (@derKha). #ITP #Lean4
++ [[https://github.com/digama0/mm-lean4][Lean 4 Metamath verifier]]. ~ Mario Carneiro. #ITP #Lean4 #Metamath
++ [[https://github.com/digama0/lean-type-theory/releases/download/v1.0/main.pdf][The type theory of Lean]]. ~ Mario Carneiro. #ITP #LeanProver #TypeTheory
++ [[https://github.com/leanprover-community/mathlib/blob/93e9e0d7057889fe4d5ffea7a3f4b45c236a916b/archive/100-theorems-list/16_abel_ruffini.lean][Construction of an algebraic number that is not solvable by radicals]]. ~ Thomas Browning. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/9084a3c765f7177d6466c72563998b9f48cf8e81/src/order/fixed_points.lean][Fixed point construction on complete lattices]]. ~ Johannes Hölzl et als. #ITP #LeanProver #Mathlib
++ [[https://github.com/openai/miniF2F][miniF2F: Formal to Formal Mathematics Benchmark consisting of exercise statements from olympiads (AMC, AIME, IMO)]]. #ITP #LeanProver #Math
++ [[https://mathlesstraveled.com/2021/05/25/the-natural-number-game/][The Natural Number Game]]. ~ Brent Yorgey. #ITP #LeanProver #Math
