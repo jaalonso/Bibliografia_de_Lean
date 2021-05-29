@@ -115,7 +115,6 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[http://bit.ly/1CEUHpV][Lean: a new theorem prover that aims to bridge the gap between interactive and automated theorem proving]].
 + [[https://xenaproject.wordpress.com/2018/12/30/learning-lean-by-example][Learning Lean by example]]. ~ Kevin Buzzard.
 + [[https://www.andrew.cmu.edu/user/avigad/Papers/learning_logic_and_proof.pdf][Learning logic and proof with an interactive theorem prover]]. ~ J. Avigad.
-+ [[https://youtu.be/EnZvGCU_jp][Linear algebra in Lean]]. ~ Anne Baanen.c
 + [[https://github.com/fpvandoorn/lean-links][Links to recourses for the Lean Theorem Prover]]. ~ Floris van Doorn.
 + [[https://leanprover.github.io/logic_and_proof][Logic and proof]]. ~ J. Avigad, R.Y. Lewis, F. van Doorn
 + [[https://youtu.be/WGwKefZ8KFo][Logic in Lean]]. ~ Jeremy Avigad.
@@ -279,7 +278,7 @@ Recopilación de trabajos sobre Lean compartidos en
 + [[https://github.com/IPDSnelting/tba-2021][Slides and exercises of the Lean 4 course "Theorem prover lab: applications in programming languages"]]. ~ Jakob von Raumer, Sebastian Ullrich (@derKha). #ITP #Lean4
 + [[https://github.com/digama0/mm-lean4][Lean 4 Metamath verifier]]. ~ Mario Carneiro. #ITP #Lean4 #Metamath
 + [[https://github.com/digama0/lean-type-theory/releases/download/v1.0/main.pdf][The type theory of Lean]]. ~ Mario Carneiro. #ITP #LeanProver #TypeTheory
-+ [[https://github.com/leanprover-community/mathlib/blob/93e9e0d7057889fe4d5ffea7a3f4b45c236a916b/archive/100-theorems-list/16_abel_ruffini.lean][Construction of an algebraic number that is not solvable by radicals]]. ~ Thomas Browning. #ITP #LeanProver #Math
++ [[https://github.com/leanprover-community/mathlib/blob/93e9e0d7057889fe4d5ffea7a3f4b45c236a916b/archive/100-theorems-list/16_abel_ruffini.lean][Construction of an algebraic number that is not solvable by radicals]]. ~ Thomas Browning. #ITP #LeanProver #Mathlib
 + [[https://github.com/leanprover-community/mathlib/blob/9084a3c765f7177d6466c72563998b9f48cf8e81/src/order/fixed_points.lean][Fixed point construction on complete lattices]]. ~ Johannes Hölzl et als. #ITP #LeanProver #Mathlib
 + [[https://github.com/openai/miniF2F][miniF2F: Formal to Formal Mathematics Benchmark consisting of exercise statements from olympiads (AMC, AIME, IMO)]]. #ITP #LeanProver #Math
 + [[https://mathlesstraveled.com/2021/05/25/the-natural-number-game/][The Natural Number Game]]. ~ Brent Yorgey. #ITP #LeanProver #Math
