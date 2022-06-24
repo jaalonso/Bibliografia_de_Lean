@@ -1,5 +1,5 @@
 #+TITLE: Bibliografía de Lean
-
+ 
 Recopilación de trabajos sobre Lean compartidos en
 [[https://github.com/jaalonso/Lecturas_GLC][Lecturas del Grupo de Lógica Computacional]].
 
